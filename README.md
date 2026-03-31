@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mantavya2109&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mantavya2109&theme=tokyonight)
