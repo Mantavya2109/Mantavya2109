@@ -1,11 +1,11 @@
-<p align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mantavya2109&theme=github_dark">
+</td>
 
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mantavya2109&theme=github_dark"/>
-</p>
-
-<p align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mantavya2109&theme=github_dark"/>
-
-
-</p>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mantavya2109&theme=github_dark">
+</td>
+</tr>
+</table>
